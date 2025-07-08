@@ -2,7 +2,7 @@
 
 This project focuses on **crawl**, **extracting**, **cleaning**, and **analyzing user comments** from [Tiki.vn](https://tiki.vn) product reviews using Python data science tools.
 
-🔗 GitHub Repo: [https://github.com/A40405/data-science-test](https://github.com/A40405/data-science-project)
+🔗 GitHub Repo: [https://github.com/A40405/data-science-project](https://github.com/A40405/data-science-project)
 
 ---
 
